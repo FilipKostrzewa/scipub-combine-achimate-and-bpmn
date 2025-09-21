@@ -59,9 +59,20 @@ outcome
 principle
     statement that guides the design of solutons
 
-    example: there must be a backup of data at the end of each day
+    example: system must be GDPR complient
 
 requirement
+    properties of system elements that are needed to achieve goals
+
+    example: there must be a backup of data at the end of each day
+
+constraint
+    limitations on aspects of the EA
+
+    in contrast to a requirement it does not define an intended functionality of the system
+
+example
+...
 
 
 -- strategy layer
