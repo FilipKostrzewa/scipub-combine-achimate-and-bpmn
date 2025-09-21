@@ -3,73 +3,61 @@
 -- motivation elements
 
 motivations and reasons that guide the design and change of the EA
-
 motivation elements work cross-functional hence can be used on each layer of EA
-
 motivation elements do not form the separate layer of EA
 
 stakeholder
-    individual, team or organization that has one or more interests in or concerns about organization and it's enterprise architecture
 
-    sets goals to achieve these interests and concerns
-
-    examples of stakeholders are CEO, directors board or customers
+individual, team or organization that has one or more interests in or concerns about organization and it's enterprise architecture
+sets goals to achieve these interests and concerns
+examples of stakeholders are CEO, directors board or customers
 
 driver
-    condition that motivates and organization to define goals and implement changes
 
-    is called concern if being associated with stakeholder
-
-    examples of internal drivers are customer satisfaction or profitability
-
-    examples of external drivers are economic changes or new legislation
+condition that motivates and organization to define goals and implement changes
+is called concern if being associated with stakeholder
+examples of internal drivers are customer satisfaction or profitability
+examples of external drivers are economic changes or new legislation
 
 assessment
-    the result of an analisys of a specific driver
 
-    SWOT (Strengths, Weaknesses, Opportunities and Threats) is a method of conducting a structured assessment
-
-    strenghts and weaknesses are internal, while opportunities and threats are external to the organization
-
-    the assessment findings should be addressed by adjusting existing goals or setting new ones
-
-    weaknesses and threats are problems tackled by negation goals
-
-    strenghts and opportunities translate into direct goals
-
-    examples of assessments are price competition pressure (threat) or high operational costs (weakness)
+the result of an analisys of a specific driver
+SWOT (Strengths, Weaknesses, Opportunities and Threats) is a method of conducting a structured assessment
+strenghts and weaknesses are internal, while opportunities and threats are external to the organization
+the assessment findings should be addressed by adjusting existing goals or setting new ones
+weaknesses and threats are problems tackled by negation goals
+strenghts and opportunities translate into direct goals
+examples of assessments are price competition pressure (threat) or high operational costs (weakness)
 
 example:
 ...
 
 goal
-    high level direction for an organiztion and it's stakeholders
 
-    may be associated to concrete outcomes
-
-    examples of goals are increase profit or decrease operational costs
+high level direction for an organiztion and it's stakeholders
+may be associated to concrete outcomes
+examples of goals are increase profit or decrease operational costs
 
 outcome
-    high level end result of some state of affairs
 
-    may the realization of defined goal
-    
-    examples of outcomes are 5% profit increase yearly or reduce 100 helpdesk workers until end of the year
+high level end result of some state of affairs
+may the realization of defined goal
+examples of outcomes are 5% profit increase yearly or reduce 100 helpdesk workers until end of the year
 
 principle
-    statement that guides the design of solutons
 
-    example: system must be GDPR complient
+statement that guides the design of solutons
+example: system must be GDPR complient
 
 requirement
-    properties of system elements that are needed to achieve goals
 
-    example: there must be a backup of data at the end of each day
+properties of system elements that are needed to achieve goals
+example: there must be a backup of data at the end of each day
 
 constraint
-    limitations on aspects of the EA
 
-    in contrast to a requirement it does not define an intended functionality of the system
+limitations on aspects of the EA
+in contrast to a requirement it does not define an intended functionality of the system
 
 example
 ...
@@ -127,8 +115,8 @@ model the application architecture that describe the structure, behaviour and in
 
 active structure
 component
-    any structural entity in the application layer
+any structural entity in the application layer
 collaboration
-    interrelationships of components in the appliation architecture
+interrelationships of components in the appliation architecture
 interface
-    defines the set of operations and events that are provided by the component
+defines the set of operations and events that are provided by the component
